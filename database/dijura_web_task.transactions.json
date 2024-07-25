@@ -1,0 +1,1012 @@
+[{
+  "_id": {
+    "$oid": "669eaa17d952d6e0ff1bc5fc"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-22T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T18:51:03.721Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-23T18:29:55.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eaade4a5ad938cfede300"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T18:54:22.163Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-23T18:27:09.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eaaf072434e0aa6082ec6"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T18:54:40.743Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-23T18:27:07.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669ead66598e3da0826927b2"
+  },
+  "userId": {
+    "$oid": "661b815d1661e971ccbdeac7"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-27T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:05:10.755Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T20:03:52.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eadb1598e3da0826927c3"
+  },
+  "userId": {
+    "$oid": "661b816b1661e971ccbdeac8"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:06:25.749Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T20:02:44.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eae446220b3f0ef5af6e7"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:08:52.837Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T20:02:13.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eae8327231f92de2c9123"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:09:55.619Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T20:01:45.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eaef88b250103f75737b3"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:11:52.638Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T20:01:05.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eaf30f4beb8a584755138"
+  },
+  "userId": {
+    "$oid": "661b816b1661e971ccbdeac8"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:12:48.178Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T19:51:27.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eafab84b1a54577155b80"
+  },
+  "userId": {
+    "$oid": "661b816b1661e971ccbdeac8"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:14:51.569Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T19:51:26.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eafc884b1a54577155b9d"
+  },
+  "userId": {
+    "$oid": "661b816b1661e971ccbdeac8"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:15:20.940Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T19:51:24.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eb06284b1a54577155bfd"
+  },
+  "userId": {
+    "$oid": "661b815d1661e971ccbdeac7"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:17:54.043Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T19:50:19.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eb0b684b1a54577155c10"
+  },
+  "userId": {
+    "$oid": "661b815d1661e971ccbdeac7"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:19:18.914Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T19:50:16.072Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669eb0c484b1a54577155c15"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "createdAt": {
+    "$date": "2024-07-22T19:19:32.146Z"
+  },
+  "__v": 0,
+  "returnedDate": {
+    "$date": "2024-07-22T19:50:05.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669fda4ac91acac824b67a17"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "669ea81fd952d6e0ff1bc5de"
+  },
+  "dueDate": {
+    "$date": "2024-07-23T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T16:28:58.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fda50c91acac824b67a1f"
+  },
+  "userId": {
+    "$oid": "661b81521661e971ccbdeac6"
+  },
+  "bookId": {
+    "$oid": "669ea81fd952d6e0ff1bc5de"
+  },
+  "dueDate": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T16:29:04.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fda59c91acac824b67a27"
+  },
+  "userId": {
+    "$oid": "669f23bbd6d51876265a2421"
+  },
+  "bookId": {
+    "$oid": "669ea81fd952d6e0ff1bc5de"
+  },
+  "dueDate": {
+    "$date": "2024-07-27T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T16:29:13.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fda64c91acac824b67a2f"
+  },
+  "userId": {
+    "$oid": "669fda25c91acac824b67a04"
+  },
+  "bookId": {
+    "$oid": "669ea81fd952d6e0ff1bc5de"
+  },
+  "dueDate": {
+    "$date": "2024-07-30T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T16:29:24.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fdafac91acac824b67a37"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ea81fd952d6e0ff1bc5de"
+  },
+  "dueDate": {
+    "$date": "2024-07-24T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T17:26:22.705Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T16:31:54.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff6afc91acac824b67bdb"
+  },
+  "userId": {
+    "$oid": "669ff0dfc91acac824b67b55"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T18:47:44.251Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T18:30:07.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff863c91acac824b67c05"
+  },
+  "userId": {
+    "$oid": "661b816b1661e971ccbdeac8"
+  },
+  "bookId": {
+    "$oid": "669ff689c91acac824b67bc1"
+  },
+  "dueDate": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:37:23.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff86ac91acac824b67c0d"
+  },
+  "userId": {
+    "$oid": "669ff006c91acac824b67b4f"
+  },
+  "bookId": {
+    "$oid": "669ff689c91acac824b67bc1"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T18:37:39.433Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T18:37:30.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff871c91acac824b67c15"
+  },
+  "userId": {
+    "$oid": "669ff0dfc91acac824b67b55"
+  },
+  "bookId": {
+    "$oid": "669ff689c91acac824b67bc1"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:37:37.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff87ac91acac824b67c26"
+  },
+  "userId": {
+    "$oid": "669ff0dfc91acac824b67b55"
+  },
+  "bookId": {
+    "$oid": "669ff689c91acac824b67bc1"
+  },
+  "dueDate": {
+    "$date": "2024-08-08T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:37:46.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff880c91acac824b67c2e"
+  },
+  "userId": {
+    "$oid": "669ff0dfc91acac824b67b55"
+  },
+  "bookId": {
+    "$oid": "669ff689c91acac824b67bc1"
+  },
+  "dueDate": {
+    "$date": "2024-08-08T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:37:52.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffb071aab1c8d8f8f831e"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "669ea811d952d6e0ff1bc5d8"
+  },
+  "dueDate": {
+    "$date": "2024-07-24T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:48:39.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffcce1aab1c8d8f8f835a"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-07-27T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:56:14.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffcd71aab1c8d8f8f8362"
+  },
+  "userId": {
+    "$oid": "669f23bbd6d51876265a2421"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-07-27T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:56:23.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffcde1aab1c8d8f8f836a"
+  },
+  "userId": {
+    "$oid": "661b81521661e971ccbdeac6"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-08-08T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T18:56:30.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffce71aab1c8d8f8f8372"
+  },
+  "userId": {
+    "$oid": "669fda25c91acac824b67a04"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-08-05T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:03:09.972Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T18:56:39.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffcf11aab1c8d8f8f837a"
+  },
+  "userId": {
+    "$oid": "661b816b1661e971ccbdeac8"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-08-02T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T18:57:18.135Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T18:56:49.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffe8a90f48e1f6d748c6a"
+  },
+  "userId": {
+    "$oid": "661b81521661e971ccbdeac6"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:03:38.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffe9090f48e1f6d748c72"
+  },
+  "userId": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:03:59.419Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T19:03:44.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffee61c00b0d3c87297d1"
+  },
+  "userId": {
+    "$oid": "661b815d1661e971ccbdeac7"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:05:14.529Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T19:05:10.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fff001c00b0d3c87297fa"
+  },
+  "userId": {
+    "$oid": "661b815d1661e971ccbdeac7"
+  },
+  "bookId": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "dueDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:05:36.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0009bf46a58071a811386"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "66a00068f46a58071a811374"
+  },
+  "dueDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:12:27.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a000a5f46a58071a81138e"
+  },
+  "userId": {
+    "$oid": "661b81521661e971ccbdeac6"
+  },
+  "bookId": {
+    "$oid": "66a00068f46a58071a811374"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:12:37.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a000acf46a58071a811396"
+  },
+  "userId": {
+    "$oid": "661b815d1661e971ccbdeac7"
+  },
+  "bookId": {
+    "$oid": "66a00068f46a58071a811374"
+  },
+  "dueDate": {
+    "$date": "2024-07-31T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:13:06.304Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T19:12:44.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a000dbf46a58071a8113c1"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "669ff624c91acac824b67bb1"
+  },
+  "dueDate": {
+    "$date": "2024-08-02T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:13:31.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a000e7f46a58071a8113d9"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "669ff689c91acac824b67bc1"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:13:43.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a002d5f46a58071a811458"
+  },
+  "userId": {
+    "$oid": "661b81121661e971ccbdeac4"
+  },
+  "bookId": {
+    "$oid": "66a0027cf46a58071a81143d"
+  },
+  "dueDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:21:57.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a002dcf46a58071a811460"
+  },
+  "userId": {
+    "$oid": "66a002c5f46a58071a81144c"
+  },
+  "bookId": {
+    "$oid": "66a0027cf46a58071a81143d"
+  },
+  "dueDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:25:20.858Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T19:22:04.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a002e2f46a58071a811468"
+  },
+  "userId": {
+    "$oid": "661b81521661e971ccbdeac6"
+  },
+  "bookId": {
+    "$oid": "66a0027cf46a58071a81143d"
+  },
+  "dueDate": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:22:48.573Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T19:22:10.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a002eaf46a58071a811470"
+  },
+  "userId": {
+    "$oid": "669ffbf91aab1c8d8f8f8325"
+  },
+  "bookId": {
+    "$oid": "66a0027cf46a58071a81143d"
+  },
+  "dueDate": {
+    "$date": "2024-08-03T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:46:15.431Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T19:22:18.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a002f1f46a58071a811478"
+  },
+  "userId": {
+    "$oid": "669f23bbd6d51876265a2421"
+  },
+  "bookId": {
+    "$oid": "66a0027cf46a58071a81143d"
+  },
+  "dueDate": {
+    "$date": "2024-07-27T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:22:25.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a00320f46a58071a8114b5"
+  },
+  "userId": {
+    "$oid": "66a002c5f46a58071a81144c"
+  },
+  "bookId": {
+    "$oid": "66a0029cf46a58071a811447"
+  },
+  "dueDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "transactionType": "returned",
+  "returnedDate": {
+    "$date": "2024-07-23T19:25:38.877Z"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T19:23:12.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a00325f46a58071a8114bd"
+  },
+  "userId": {
+    "$oid": "669f23bbd6d51876265a2421"
+  },
+  "bookId": {
+    "$oid": "66a0029cf46a58071a811447"
+  },
+  "dueDate": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:23:17.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a003acf46a58071a811501"
+  },
+  "userId": {
+    "$oid": "66a002c5f46a58071a81144c"
+  },
+  "bookId": {
+    "$oid": "669ffc6c1aab1c8d8f8f8332"
+  },
+  "dueDate": {
+    "$date": "2024-07-26T00:00:00.000Z"
+  },
+  "transactionType": "borrowed",
+  "returnedDate": null,
+  "createdAt": {
+    "$date": "2024-07-23T19:25:32.607Z"
+  },
+  "__v": 0
+}]

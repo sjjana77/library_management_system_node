@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "669ff624c91acac824b67bb1"
+  },
+  "title": "titlee test",
+  "author": "aa 1",
+  "available": true,
+  "count": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffc6c1aab1c8d8f8f8332"
+  },
+  "title": "book test 1",
+  "author": "book author 1",
+  "available": true,
+  "count": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffc8b1aab1c8d8f8f8336"
+  },
+  "title": "book test 2",
+  "author": "book Author 2",
+  "available": false,
+  "count": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0004df46a58071a811370"
+  },
+  "title": "book test 3",
+  "author": "author test 3",
+  "available": true,
+  "count": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a00068f46a58071a811374"
+  },
+  "title": "book 4",
+  "author": "book author 4",
+  "available": true,
+  "count": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0027cf46a58071a81143d"
+  },
+  "title": "screen title book 1",
+  "author": "screen title Author",
+  "available": true,
+  "count": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0029cf46a58071a811447"
+  },
+  "title": "screen title book 2",
+  "author": "screen author book 2",
+  "available": true,
+  "count": 3,
+  "__v": 0
+}]

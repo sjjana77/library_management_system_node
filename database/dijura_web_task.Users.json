@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "669ea7f8d952d6e0ff1bc5d1"
+  },
+  "username": "Admin Jana",
+  "email": "janardh77@gmal.com",
+  "password": "$2b$10$bMldqp5Y2zS5AfWggj0PSORa3nPLZe.jjbccUhEQAwHiQKbsDMaWK",
+  "mobile": "6379194477",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f23bbd6d51876265a2421"
+  },
+  "username": "user test 1",
+  "email": "janardh777@gmal.com",
+  "password": "$2b$10$vvMmfLuT3SW77prfzDL7Z.Qa5SlGsxEchoD1dEcOY6.OqbHxvH7Bi",
+  "mobile": "9988776600",
+  "role": "reader",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fda25c91acac824b67a04"
+  },
+  "username": "jana",
+  "email": "janardh7@gmal.com",
+  "password": "$2b$10$5Yk5TkYt0BJqdn4u.dVocuNzENS/2erCHYEwSvJQv4wnc4kxGfG5C",
+  "mobile": "9911008800",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff006c91acac824b67b4f"
+  },
+  "username": "Admin Jana1",
+  "email": "janardh07@gmal.com",
+  "password": "$2b$10$RoeLlbBnAN7FFW0uklBh8OPqBHh34meALu7ZDW5DobJ8hnsNZMcKW",
+  "mobile": "9991188000",
+  "role": "reader",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ff0dfc91acac824b67b55"
+  },
+  "username": "user test 11",
+  "email": "janardh107@gmal.com",
+  "password": "$2b$10$ncBy.jCrRGJaoxgTj2/fQeHZEMahWnDFm/2951qXbYVR8H6rG4Aee",
+  "mobile": "9900011888",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffbf91aab1c8d8f8f8325"
+  },
+  "username": "Reader 1",
+  "email": "reader1@gmail.com",
+  "password": "$2b$10$Hm7u5zb5/QzRMUKm91BUJuMyXGtemL61b11pPe7wcnoDQ3Alt3DOi",
+  "mobile": "9900110011",
+  "role": "reader",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669ffc2d1aab1c8d8f8f8329"
+  },
+  "username": "Admin user 1",
+  "email": "adminuser1@gmail.com",
+  "password": "$2b$10$q9De3pv5AjY47.lLuL5NV.RkYKRxc.PAwYP1xFEmZ/snRl8ggmjV2",
+  "mobile": "9900109919",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a00019f46a58071a81136b"
+  },
+  "username": "Admin test 3",
+  "email": "adminuser17@gmail.com",
+  "password": "$2b$10$qnVTOljkdIKgEQzAxsNR6.KTvVN3xojN.rqfQqqbh1SeD4z8NCzSW",
+  "mobile": "9911076699",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a00242f46a58071a811436"
+  },
+  "username": "Admin screen record",
+  "email": "adminscreenrecord@gmail.com",
+  "password": "$2b$10$PLc9RL75mPLvpplCOceaDO0rVMmAvQOa6jUIttbfH2d/UIhhl7ydK",
+  "mobile": "9987651100",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a002c5f46a58071a81144c"
+  },
+  "username": "screenrecreader",
+  "email": "screenrecreader@gmail.com",
+  "password": "$2b$10$GsOfkWcdV0aeoOtO3.QHguy3VVgqGrQ/1tEVpC.371JTIpxEbvub6",
+  "mobile": "6379195566",
+  "role": "reader",
+  "__v": 0
+}]
