@@ -9,7 +9,7 @@ const connectDB = require('./db');
 require('dotenv').config();
 
 const corsOptions = {
-  origin: ['http://localhost:3000/react_task/register', 'http://localhost:3000/react_task', 'http://localhost:3000', 'http://localhost/', 'http://localhost:3001/react_task', 'http://localhost:3001', 'https://github.com/'],
+  origin: ['http://localhost:3000', 'https://github.com'],
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   optionsSuccessStatus: 200
 };
